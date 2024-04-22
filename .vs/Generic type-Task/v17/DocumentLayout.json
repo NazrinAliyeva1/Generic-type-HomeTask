@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99455\\source\\repos\\Generic type-Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9973BD0-1628-4292-B3FC-6B29A4CF4A12}|Generic type-Task\\Generic type-Task.csproj|C:\\Users\\99455\\source\\repos\\Generic type-Task\\generic type-task\\models\\wolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9973BD0-1628-4292-B3FC-6B29A4CF4A12}|Generic type-Task\\Generic type-Task.csproj|solutionrelative:generic type-task\\models\\wolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9973BD0-1628-4292-B3FC-6B29A4CF4A12}|Generic type-Task\\Generic type-Task.csproj|C:\\Users\\99455\\source\\repos\\Generic type-Task\\generic type-task\\models\\zoocage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9973BD0-1628-4292-B3FC-6B29A4CF4A12}|Generic type-Task\\Generic type-Task.csproj|solutionrelative:generic type-task\\models\\zoocage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9973BD0-1628-4292-B3FC-6B29A4CF4A12}|Generic type-Task\\Generic type-Task.csproj|C:\\Users\\99455\\source\\repos\\Generic type-Task\\generic type-task\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9973BD0-1628-4292-B3FC-6B29A4CF4A12}|Generic type-Task\\Generic type-Task.csproj|solutionrelative:generic type-task\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9973BD0-1628-4292-B3FC-6B29A4CF4A12}|Generic type-Task\\Generic type-Task.csproj|c:\\users\\99455\\source\\repos\\generic type-task\\generic type-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9973BD0-1628-4292-B3FC-6B29A4CF4A12}|Generic type-Task\\Generic type-Task.csproj|solutionrelative:generic type-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9973BD0-1628-4292-B3FC-6B29A4CF4A12}|Generic type-Task\\Generic type-Task.csproj|C:\\Users\\99455\\source\\repos\\Generic type-Task\\generic type-task\\models\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9973BD0-1628-4292-B3FC-6B29A4CF4A12}|Generic type-Task\\Generic type-Task.csproj|solutionrelative:generic type-task\\models\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9973BD0-1628-4292-B3FC-6B29A4CF4A12}|Generic type-Task\\Generic type-Task.csproj|C:\\Users\\99455\\source\\repos\\Generic type-Task\\generic type-task\\models\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9973BD0-1628-4292-B3FC-6B29A4CF4A12}|Generic type-Task\\Generic type-Task.csproj|solutionrelative:generic type-task\\models\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9973BD0-1628-4292-B3FC-6B29A4CF4A12}|Generic type-Task\\Generic type-Task.csproj|C:\\Users\\99455\\source\\repos\\Generic type-Task\\generic type-task\\models\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9973BD0-1628-4292-B3FC-6B29A4CF4A12}|Generic type-Task\\Generic type-Task.csproj|solutionrelative:generic type-task\\models\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9973BD0-1628-4292-B3FC-6B29A4CF4A12}|Generic type-Task\\Generic type-Task.csproj|C:\\Users\\99455\\source\\repos\\Generic type-Task\\generic type-task\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9973BD0-1628-4292-B3FC-6B29A4CF4A12}|Generic type-Task\\Generic type-Task.csproj|solutionrelative:generic type-task\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9973BD0-1628-4292-B3FC-6B29A4CF4A12}|Generic type-Task\\Generic type-Task.csproj|C:\\Users\\99455\\source\\repos\\Generic type-Task\\generic type-task\\models\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9973BD0-1628-4292-B3FC-6B29A4CF4A12}|Generic type-Task\\Generic type-Task.csproj|solutionrelative:generic type-task\\models\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9973BD0-1628-4292-B3FC-6B29A4CF4A12}|Generic type-Task\\Generic type-Task.csproj|C:\\Users\\99455\\source\\repos\\Generic type-Task\\generic type-task\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9973BD0-1628-4292-B3FC-6B29A4CF4A12}|Generic type-Task\\Generic type-Task.csproj|solutionrelative:generic type-task\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Generic type-Task\\Generic type-Task\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Generic type-Task\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Generic type-Task\\Generic type-Task\\Models\\Student.cs",
+              "RelativeToolTip": "Generic type-Task\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:38:40.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lion.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Generic type-Task\\Generic type-Task\\Models\\Lion.cs",
+              "RelativeDocumentMoniker": "Generic type-Task\\Models\\Lion.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Generic type-Task\\Generic type-Task\\Models\\Lion.cs",
+              "RelativeToolTip": "Generic type-Task\\Models\\Lion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:37:21.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZooCage.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Generic type-Task\\Generic type-Task\\Models\\ZooCage.cs",
+              "RelativeDocumentMoniker": "Generic type-Task\\Models\\ZooCage.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Generic type-Task\\Generic type-Task\\Models\\ZooCage.cs",
+              "RelativeToolTip": "Generic type-Task\\Models\\ZooCage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T00:54:38.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Generic type-Task\\Generic type-Task\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Generic type-Task\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Generic type-Task\\Generic type-Task\\Models\\Animal.cs",
+              "RelativeToolTip": "Generic type-Task\\Models\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:17:53.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Grass.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Generic type-Task\\Generic type-Task\\Models\\Grass.cs",
+              "RelativeDocumentMoniker": "Generic type-Task\\Models\\Grass.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Generic type-Task\\Generic type-Task\\Models\\Grass.cs",
+              "RelativeToolTip": "Generic type-Task\\Models\\Grass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:19:09.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Generic type-Task\\Generic type-Task\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "Generic type-Task\\Models\\Food.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Generic type-Task\\Generic type-Task\\Models\\Food.cs",
+              "RelativeToolTip": "Generic type-Task\\Models\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:18:37.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Elephant.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Generic type-Task\\Generic type-Task\\Models\\Elephant.cs",
+              "RelativeDocumentMoniker": "Generic type-Task\\Models\\Elephant.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Generic type-Task\\Generic type-Task\\Models\\Elephant.cs",
+              "RelativeToolTip": "Generic type-Task\\Models\\Elephant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:18:22.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Meat.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Generic type-Task\\Generic type-Task\\Models\\Meat.cs",
+              "RelativeDocumentMoniker": "Generic type-Task\\Models\\Meat.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Generic type-Task\\Generic type-Task\\Models\\Meat.cs",
+              "RelativeToolTip": "Generic type-Task\\Models\\Meat.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:18:57.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wolf.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Generic type-Task\\Generic type-Task\\Models\\Wolf.cs",
+              "RelativeDocumentMoniker": "Generic type-Task\\Models\\Wolf.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Generic type-Task\\Generic type-Task\\Models\\Wolf.cs",
+              "RelativeToolTip": "Generic type-Task\\Models\\Wolf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:18:05.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Generic type-Task\\Generic type-Task\\Program.cs",
+              "RelativeDocumentMoniker": "Generic type-Task\\Program.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Generic type-Task\\Generic type-Task\\Program.cs",
+              "RelativeToolTip": "Generic type-Task\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:17:12.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
